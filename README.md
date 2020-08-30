@@ -80,4 +80,8 @@ If configuration file have some problems, builder will show it. Here is exceptio
 ### Modify source code?
 Yes, you allowed to edit source file.
 
+### Example of logging:
+
+![Example of logging](https://i.imgur.com/0q5LoYa.png)
+
 ##### Developed by CatchThels ~ 2020
