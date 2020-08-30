@@ -9,6 +9,7 @@ CatchStealer can steal cookies/other info(Screenshot, OS, TIME, Username) and se
   - Builder with custom config
   - E-Mail logging
   - Automatically compiling to .exe file
+  - Using .zip file for logging
   - More functionally
 
 
