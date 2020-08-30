@@ -1,10 +1,9 @@
 # -CatchStealer-
 
-A Python 🍪 stealer with e-mail logging
-
 <p align="center">
     <br /><br />
     <img alt="Language: Python" src="https://img.shields.io/badge/Made%20with-Python-%23FFD242?logo=python&logoColor=white">
+    <p>A Python 🍪 stealer with e-mail logging</p>
 </p>
 
 CatchStealer can steal cookies/other info(Screenshot, OS, TIME, Username) and send logs to your e-mail
