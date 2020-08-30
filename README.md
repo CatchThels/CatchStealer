@@ -3,7 +3,6 @@
 A Python 🍪 stealer with e-mail logging
 
 <p align="center">
-    Открытый и бесплатный СМС бомбер
     <br /><br />
     <img alt="Language: Python" src="https://img.shields.io/badge/Made%20with-Python-%23FFD242?logo=python&logoColor=white">
 </p>
